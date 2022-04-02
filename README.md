@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @hanoiBat
+- 👀 I’m interested in Python and Javascript, I enjoy on the front-end and creating machine learning projects.
+- 🌱 I’m currently learning Java and working on Computer Vision projects.
+- 💞️ I’m looking to collaborate on Machine Learning and Computer Vision Projects.
